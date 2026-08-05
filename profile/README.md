@@ -4,7 +4,7 @@
 
 **Backend-as-a-service for auth, databases, storage, realtime, wallets, and serverless functions.**
 
-[Website](https://www.mudbase.dev) · [Docs](https://docs.mudbase.dev) · [Console](https://console.mudbase.dev) · [Pricing](https://www.mudbase.dev/pricing)
+[Website](https://www.mudbase.dev) · [Docs](https://docs.mudbase.dev) · [Console](https://console.mudbase.dev) · [Pricing](https://www.mudbase.dev/pricing) · [LinkedIn](https://www.linkedin.com/company/mudbase-dev)
 
 </div>
 
@@ -41,3 +41,4 @@ Full quickstarts for every language: [docs.mudbase.dev/quickstart](https://docs.
 - Docs: [docs.mudbase.dev](https://docs.mudbase.dev)
 - Issues on any repo above are welcome for SDK bugs and the demo app
 - Platform support: [support@mudbase.dev](mailto:support@mudbase.dev)
+- Follow us on [LinkedIn](https://www.linkedin.com/company/mudbase-dev)
