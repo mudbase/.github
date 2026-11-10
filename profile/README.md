@@ -47,3 +47,5 @@ Full quickstarts for every language: [docs.mudbase.dev/quickstart](https://docs.
 - Issues on any repo above are welcome for SDK bugs and the demo app
 - Platform support: [support@mudbase.dev](mailto:support@mudbase.dev)
 - Follow us on [LinkedIn](https://www.linkedin.com/company/mudbase-dev)
+
+Mudbase Inc, a Delaware corporation. 8 The Green, Ste A, Dover, DE 19901, USA.
