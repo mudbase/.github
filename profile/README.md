@@ -4,7 +4,7 @@
 
 **Backend-as-a-service for auth, databases, storage, realtime, wallets, and serverless functions.**
 
-[Website](https://www.mudbase.dev) · [Docs](https://docs.mudbase.dev) · [Console](https://console.mudbase.dev) · [Pricing](https://www.mudbase.dev/pricing) · [LinkedIn](https://www.linkedin.com/company/mudbase-dev)
+[Website](https://console.mudbase.dev) · [Docs](https://docs.mudbase.dev) · [Console](https://console.mudbase.dev) · [Pricing](https://console.mudbase.dev/pricing) · [LinkedIn](https://www.linkedin.com/company/mudbase-dev)
 
 </div>
 
