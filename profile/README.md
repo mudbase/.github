@@ -16,7 +16,7 @@ Mudbase gives you the pieces every backend needs, without running one yourself: 
 
 | Repo | What it is |
 |---|---|
-| [**mudbase-sdk**](https://github.com/mudbase/mudbase-sdk) | Official API clients for 9 languages: JavaScript/TypeScript, Python, Go, Ruby, Java, C#, PHP, Swift, and Dart/Flutter, generated from one shared OpenAPI spec. |
+| **SDKs** | API clients for 9 languages (JavaScript/TypeScript, Python, Go, Ruby, Java, C#, PHP, Swift, Dart/Flutter), generated from one shared OpenAPI spec. Published today (checked 2026-11-25): `mudbase-sdk` on npm, `mudbase` on PyPI and RubyGems, the Go module `github.com/themudhaxk/mudbase-sdk-go`, and `Mudbase.SDK` on NuGet. Java and PHP packages are not on their registries yet, and Swift and Dart install from their git repositories. Each language has its own repository under [github.com/themudhaxk](https://github.com/themudhaxk?tab=repositories&q=mudbase-sdk). The older single repository [mudbase-sdk](https://github.com/mudbase/mudbase-sdk) is archived. |
 | [**mudbase-showcase-ecommerce**](https://github.com/mudbase/mudbase-showcase-ecommerce) | A complete ecommerce storefront (catalog, cart, checkout, orders, seller dashboard) built entirely on Mudbase, with no custom backend of its own. A reference for what a real production app on the platform looks like. |
 | [**mudbase-showcase-social**](https://github.com/mudbase/mudbase-showcase-social) | A realtime social feed app (posts, likes, comments, live updates over WebSockets), built entirely on Mudbase. |
 | [**mudbase-showcase-marketplace**](https://github.com/mudbase/mudbase-showcase-marketplace) | A two-sided marketplace app (listings, buyers, sellers, messaging) built entirely on Mudbase. |
